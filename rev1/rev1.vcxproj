@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{7BED970C-81D5-4780-8403-3ACA5DA278A2}</ProjectGuid>
-    <RootNamespace>rev1</RootNamespace>
+    <RootNamespace>void pointer</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
     <ProjectName>void pointer</ProjectName>
   </PropertyGroup>
